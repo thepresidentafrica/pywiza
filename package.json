@@ -1,0 +1,31 @@
+{
+  "name": "pywiza",
+  "version": "0.0.100",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepresidentafrica/pywiza.git",
+    "directory": "pywiza"
+
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "author": {
+    "name": "The President Africa",
+    "url": "https://thepresident.africa/",
+    "email": "hello@thepresident.africa"
+  },
+  "homepage": "https://pywiza.thepresident.africa/",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "keywords": ["python", "flask", "javascript", "typescript", "pywiza", "ai", "thepresidentafrica", "framework"],
+  "license": "ISC"
+}
