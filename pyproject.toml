@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pywiza"
+version = "0.0.10"
+description = "state of the art python framework for the extreme devs"
+authors = ["Mitch Chimwemwe Chanza <mitch.chanza@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.0.0"
+gunicorn = "^21.2.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
